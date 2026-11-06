@@ -1,0 +1,26 @@
+[
+  {
+    "name": "freeCodeCamp",
+    "owner": "freeCodeCamp",
+    "description": "Learn to code for free with thousands of interactive lessons and projects.",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "language": "TypeScript",
+    "starred_at": "2025-02-14"
+  },
+  {
+    "name": "Python",
+    "owner": "TheAlgorithms",
+    "description": "Open source implementations of algorithms in several programming languages.",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "language": "Python",
+    "starred_at": "2025-01-28"
+  },
+  {
+    "name": "every-layout",
+    "owner": "EveryLayout",
+    "description": "A collection of practical layout design patterns for the web.",
+    "url": "https://github.com/EveryLayout/every-layout",
+    "language": "JavaScript",
+    "starred_at": "2024-12-09"
+  }
+]
